@@ -2,19 +2,20 @@
 
 ## Videojuegos favoritos  
 
-### Peleas
+### - Peleas
 ### **DragonBall FighterZ**
 ![Dragonball](https://cdn02.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_4/H2x1_NSwitch_DragonBallFighterZ_image1600w.jpg)
 >*Este juego tiene un sistema de combos muy basicos, pero a la vez complejos, es muy divertido y tiene unas animaciones muy buenas.*
+
 ![Animacion](https://static.giantbomb.com/uploads/original/14/142472/2997201-5357979321-tumbl.gif) ![Animacion2](https://giffiles.alphacoders.com/208/208014.gif)
 
-### FPS
+### - FPS
 ### **APEX Legends**
 ![Apex](https://cdn.hiptoro.com/wp-content/uploads/2019/04/Apex-Legends-Game.jpg)
 
 >*Es un juego muy dinamico, en todo tiempo estas en constante movimiento, las habilidades de los personajes puede ayudarte mucho y puede ser importante para ganar la partida.*
 
-### Sandbox
+### - Sandbox
 ### **Terraria**
 ![Terraria](https://wallpaperaccess.com/full/1550524.jpg)
 >Es un juego con mucha variedad, cuenta con más de 3,600 items y cuenta con 348 enemigos.
